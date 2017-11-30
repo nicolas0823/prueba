@@ -1,6 +1,6 @@
 <?php
 
-
+//esto es de prueba
 
 	$mapa="colores.map";
 	if(!extension_loaded("MapScript"))
